@@ -313,6 +313,7 @@ public class caixa {
 		System.out.println(caixa.containsKey("M250"));
 		// Verificando se dentro do HashMap caixa contém o valor "Fernando".
 		System.out.println(caixa.containsValue("Fernando"));
+		// Imprimindo todos os itens do HashMap.
 		System.out.println(caixa);
 	}
 
